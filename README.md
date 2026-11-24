@@ -1,6 +1,15 @@
 Main Menu = Start scene
 Basic Scene = Game
 
+## Gameplay Demo
+
+https://youtu.be/8bYjxkdlOQs?si=rFvnWJpn4yeiRZvW
+
+## Project Poster
+
+<img width="450" alt="VR horror game project poster" src="https://github.com/user-attachments/assets/019139e4-c492-4572-8968-e577534ae179" />
+
+
 # Minecraft VR Horror – Mini Project
 
 A Minecraft-inspired virtual reality horror survival game developed in Unity and C# as an academic mini-project at Aalborg University.
